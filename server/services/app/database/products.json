@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Nike Renew Retaliation Tr 3",
+    "description": "Nike running shoes, black-white-white",
+    "price": 650000,
+    "mainImg": "https://res.cloudinary.com/dnh89xvo5/image/upload/v1673855892/p3_challenge_1/3F693E88-CF26-4E6B-8851-CC87185BF919_1_105_c_egbpoz.jpg",
+    "stockStatus": "Ready",
+    "categoryId": 2,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Nike Zoom Winflo 7",
+    "description": "Nike running shoes, navy-white-silver",
+    "price": 950000,
+    "mainImg": "https://res.cloudinary.com/dnh89xvo5/image/upload/v1673855718/p3_challenge_1/34F756EC-680A-4DE7-98D0-67AE270796B4_1_105_c_i7m20b.jpg",
+    "stockStatus": "Ready",
+    "categoryId": 2,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Nike Airmax Infinity 2",
+    "description": "Nike sport shoes, black-white-white",
+    "price": 750000,
+    "mainImg": "https://res.cloudinary.com/dnh89xvo5/image/upload/v1673855706/p3_challenge_1/C96686CD-BD99-4048-B646-84441386CC70_1_105_c_inorek.jpg",
+    "stockStatus": "Ready",
+    "categoryId": 1,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Adidas X9000L4",
+    "description": "Adidas sport shoes, black,orange,grey",
+    "price": 900000,
+    "mainImg": "https://res.cloudinary.com/dnh89xvo5/image/upload/v1673855791/p3_challenge_1/24E16866-A0D7-454B-BE77-900A23224CB0_1_105_c_pfm4gq.jpg",
+    "stockStatus": "Ready",
+    "categoryId": 1,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Nike React Vision",
+    "description": "Nike sport shoes, blue-white-navy",
+    "price": 800000,
+    "mainImg": "https://res.cloudinary.com/dnh89xvo5/image/upload/v1673855803/p3_challenge_1/D7B7F9AD-1B78-4325-936A-EA16D6E7ACDC_1_105_c_aeaxnm.jpg",
+    "stockStatus": "Ready",
+    "categoryId": 1,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Adidas Ultraboos 21",
+    "description": "Adidas running shoes, black-white,orange",
+    "price": 1250000,
+    "mainImg": "https://res.cloudinary.com/dnh89xvo5/image/upload/v1673875393/p3_challenge_1/1AD318B1-19BC-45F5-934B-14A021DD68D0_1_105_c_pnj11s.jpg",
+    "stockStatus": "Ready",
+    "categoryId": 2,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Adidas NMD R1",
+    "description": "Adidas sport shoes, black-white-white",
+    "price": 1050000,
+    "mainImg": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d44fa06fc83f4644b7e8acbc01160e1b_9366/NMD_R1_Primeblue_Shoes_Black_GZ9258_01_standard.jpg",
+    "stockStatus": "New",
+    "categoryId": 1,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Adidas EQ19",
+    "description": "Adidas running shoes, white-white-orange",
+    "price": 650000,
+    "mainImg": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f58c0d55ad854cf5aa9dad1f01259213_9366/EQ19_Run_Shoes_White_H02036_01_standard.jpg",
+    "stockStatus": "New",
+    "categoryId": 2,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Adidas Stan Smith",
+    "description": "Adidas casual shoes, white-white-green",
+    "price": 700000,
+    "mainImg": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-27767811/adidas_adidas_full01.jpg",
+    "stockStatus": "New",
+    "categoryId": 3,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Nike Air Force 1",
+    "description": "Nike casual shoes, white-white-white",
+    "price": 850000,
+    "mainImg": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-shoes-WrLlWX.png",
+    "stockStatus": "New",
+    "categoryId": 3,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Nike Revolution 5",
+    "description": "Nike running shoes, black-white-white",
+    "price": 550000,
+    "mainImg": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/qwqfyddzikcgc4ozwigp/revolution-5-road-running-shoes-szF7CS.png",
+    "stockStatus": "New",
+    "categoryId": 2,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  },
+  {
+    "name": "Nike Air Max 97",
+    "description": "Nike sport shoes, brown-cream-white",
+    "price": 1450000,
+    "mainImg": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aa5164d2-7cb2-488e-85bd-1d1d677dbf9e/air-max-97-shoes-XzwdhC.png",
+    "stockStatus": "New",
+    "categoryId": 1,
+    "UserId": "63d348f62a4bec93b5fe2874"
+  }
+]

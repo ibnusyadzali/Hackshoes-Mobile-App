@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  app-services:
+    build: ./services/app
+    container_name: app-service
+    ports:
+      - "4002:4002"
+    environment:
+      NODE_ENV: "production"
+  user-service:
+    build: ./services/users
+    container_name: users-service
+    ports:
+      - "4001:4001"
+    environment:
+      NODE_ENV: "production"
+  orchestrator-service:
+    build: ./orchestrator
+    container_name: orchestrator
+    ports:
+      - "80:4000"
